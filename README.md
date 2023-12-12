@@ -29,7 +29,7 @@ Allow terraform to get access to the provider registry by opening the network or
 #### 1. Provider Configuration 
 Ensure that you have the Fortinet FortiOS provider specified in your Terraform configuration.
 
-```hcl
+``hcl
 terraform {
   required_providers {
     fortios = {
