@@ -1,9 +1,8 @@
 # Fortigate-firewall-configuration-using-Terrafom-
 
 
-![image](https://github.com/ESUMAILI/Fortigate-firewall-configuration-using-Terrafom-/assets/91162045/a60cf2b6-e499-4876-97ed-8d961d49b74a)
+![image](https://github.com/ESUMAILI/Fortigate-firewall-configuration-using-Terrafom-/assets/91162045/ad3694bc-30af-4b5c-a44d-8c166f0b2acf)  ![image](https://github.com/ESUMAILI/Fortigate-firewall-configuration-using-Terrafom-/assets/91162045/570f8554-763d-42df-af03-a17fb145da8b)
 
-![image](https://github.com/ESUMAILI/Fortigate-firewall-configuration-using-Terrafom-/assets/91162045/ba3173d7-ef18-4905-8cee-f876de056643)
 
 
 # Terraform Configuration for FortiGate Firewall
