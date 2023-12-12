@@ -17,7 +17,8 @@ Before running the Terraform scripts, ensure you have the following:
 - Terraform installed on your local your virtual machine 
 - Access to a FortiGate firewall device.
 - Appropriate credentials (username and password) for the FortiGate device.
-![image](https://github.com/ESUMAILI/Fortigate-firewall-configuration-using-Terrafom-/assets/91162045/e5488778-0d05-4d07-8e36-0de0cd00700b)
+![image](https://github.com/ESUMAILI/Fortigate-firewall-configuration-using-Terrafom-/assets/91162045/3716f1d7-1984-44d8-8be4-984ca0d724e1)
+
 
   
 - FortiGate device reachable from the machine where Terraform will be executed.
