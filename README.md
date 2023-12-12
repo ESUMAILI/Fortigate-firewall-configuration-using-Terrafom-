@@ -29,7 +29,7 @@ Allow terraform to get access to the provider registry by opening the network or
 #### 1. Provider Configuration 
 Ensure that you have the Fortinet FortiOS provider specified in your Terraform configuration.
 
-``hcl
+```hcl
 terraform {
   required_providers {
     fortios = {
@@ -38,12 +38,13 @@ terraform {
     }
   }
 }
+```
 The script specifies the use of the fortinetdev/fortios provider version 1.18.0. This provider is utilized to manage resources on a Fortinet FortiOS device.
 
 ### 2. Fortinet FortiOS Provider
 
 The provider configuration sets up the connection to the Fortinet FortiOS device with the following parameters:
-
+```
 provider "fortios" {
   hostname = "YOUR_FORTIGATE_IP"
   token    = "YOUR_API_TOKEN"
@@ -51,6 +52,7 @@ provider "fortios" {
   username = "YOUR_USERNAME"
   password = "YOUR_PASSWORD"
 }
+```
 Replace placeholders (YOUR_FORTIGATE_IP, YOUR_API_TOKEN, YOUR_USERNAME, YOUR_PASSWORD) with your FortiGate details.
 
 hostname: The IP address of the Fortinet device.
