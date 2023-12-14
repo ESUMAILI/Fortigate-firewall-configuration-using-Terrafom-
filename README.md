@@ -77,3 +77,14 @@ schedule: Always active.
 wanopt, wanopt_detection, wanopt_passive_opt, wccp, webcache, webcache_https: Various WAN optimization settings.
 wsso: Web Single Sign-On enabled.
 status: Policy status (enabled).
+
+Result in FTG 
+
+![image](https://github.com/ESUMAILI/Fortigate-firewall-configuration-using-Terrafom-/assets/91162045/13df17ff-967a-4e9f-b502-373454510dcf)
+
+
+#### 3. Ressource definition 
+#### 3.1 Fortinet Firewall Policy Ressource (PolicyEsdras)
+
+A firewall policy named policyEsdras is defined with the following attributes:
+
